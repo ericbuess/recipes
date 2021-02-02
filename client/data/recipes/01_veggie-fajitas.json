@@ -1,0 +1,104 @@
+{
+    "title": "Veggie Fajitas",
+    "id": "veggie-fajitas",
+    "imageURL": "../images/veggie-fajitas.jpg",
+    "originalURL": "https://www.loveandlemons.com/fajita-veggies/",
+    "tags": [
+        "vegan",
+        "dinner",
+        "air fryer"
+    ],
+    "yield": "About 8 servings",
+    "time": {
+        "ingredients": 8,
+        "preparation": 10,
+        "instruction": 35
+    },
+    "ingredients": [
+        {
+            "macroId": "bell-pepper",
+            "quantity": "3",
+            "name": "multi-colored bell peppers"
+        },
+        {
+            "macroId": "portobello-mushroom",
+            "quantity": "1",
+            "unit": "cup",
+            "name": "portobello mushrooms"
+        },
+        {
+            "quantity": "1",
+            "name": "red onion"
+        },
+        {
+            "quantity": "4",
+            "unit": "ounces",
+            "name": "carrots"
+        },
+        {
+            "quantity": "2",
+            "unit": "tablespoons",
+            "name": "avocado oil"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "minced garlic"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "teaspoon",
+            "name": "chili powder"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "teaspoon",
+            "name": "cumin"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "teaspoon",
+            "name": "sea salt"
+        },
+        {
+            "quantity": "1/4",
+            "unit": "tablespoon",
+            "name": "black pepper"
+        },
+        {
+            "quantity": "2",
+            "name": "limes",
+            "includeInMacros": false
+        },
+        {
+            "quantity": "8",
+            "name": "corn tortillas",
+            "includeInMacros": false
+        },
+        {
+            "quantity": "16",
+            "unit": "oz",
+            "name": "refried beans",
+            "includeInMacros": false
+        }
+    ],
+    "preparations": [
+        "Stem and slice bell peppers into strips",
+        "Slice onions into wedges",
+        "Add bell peppers, mushrooms, onion, avocado oil, minced garlic, chili powder, cumin, sea salt, and black pepper to ziplock bag, seal and shake up",
+        "Add grill attachment to air fryer"
+    ],
+    "instructions": [
+        "Set air fryer to Grill on max heat for 20 minutes and start heating",
+        "When air fryer is heated, pour bowl of ingredients into air fryer and close the lid",
+        "Heat beans and add spices to them (e.g. nutritional yeast, garlic powder, onion powder)",
+        "Heat tortillas",
+        "Set table"
+    ],
+    "nutrition": {
+        "calories": 489,
+        "fat": 30,
+        "protein": 9,
+        "carbs": 51
+    }
+}

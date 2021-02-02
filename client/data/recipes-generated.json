@@ -1,0 +1,318 @@
+[
+    {
+        "title": "Veggie Fajitas",
+        "id": "veggie-fajitas",
+        "imageURL": "../images/veggie-fajitas.jpg",
+        "originalURL": "https://www.loveandlemons.com/fajita-veggies/",
+        "tags": [
+            "vegan",
+            "dinner",
+            "air fryer"
+        ],
+        "yield": "About 8 servings",
+        "time": {
+            "ingredients": 8,
+            "preparation": 10,
+            "instruction": 35
+        },
+        "ingredients": [
+            {
+                "macroId": "bell-pepper",
+                "quantity": "3",
+                "name": "multi-colored bell peppers"
+            },
+            {
+                "macroId": "portobello-mushroom",
+                "quantity": "1",
+                "unit": "cup",
+                "name": "portobello mushrooms"
+            },
+            {
+                "quantity": "1",
+                "name": "red onion"
+            },
+            {
+                "quantity": "4",
+                "unit": "ounces",
+                "name": "carrots"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "avocado oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "minced garlic"
+            },
+            {
+                "quantity": "1/2",
+                "unit": "teaspoon",
+                "name": "chili powder"
+            },
+            {
+                "quantity": "1/2",
+                "unit": "teaspoon",
+                "name": "cumin"
+            },
+            {
+                "quantity": "1/2",
+                "unit": "teaspoon",
+                "name": "sea salt"
+            },
+            {
+                "quantity": "1/4",
+                "unit": "tablespoon",
+                "name": "black pepper"
+            },
+            {
+                "quantity": "2",
+                "name": "limes",
+                "includeInMacros": false
+            },
+            {
+                "quantity": "8",
+                "name": "corn tortillas",
+                "includeInMacros": false
+            },
+            {
+                "quantity": "16",
+                "unit": "oz",
+                "name": "refried beans",
+                "includeInMacros": false
+            }
+        ],
+        "preparations": [
+            "Stem and slice bell peppers into strips",
+            "Slice onions into wedges",
+            "Add bell peppers, mushrooms, onion, avocado oil, minced garlic, chili powder, cumin, sea salt, and black pepper to ziplock bag, seal and shake up",
+            "Add grill attachment to air fryer"
+        ],
+        "instructions": [
+            "Set air fryer to Grill on max heat for 20 minutes and start heating",
+            "When air fryer is heated, pour bowl of ingredients into air fryer and close the lid",
+            "Heat beans and add spices to them (e.g. nutritional yeast, garlic powder, onion powder)",
+            "Heat tortillas",
+            "Set table"
+        ],
+        "nutrition": {
+            "calories": 489,
+            "fat": 30,
+            "protein": 9,
+            "carbs": 51
+        }
+    },
+    {
+        "title": "Potato Soup",
+        "id": "potato-soup",
+        "imageURL": "../images/potato-soup.jpg",
+        "originalURL": "https://www.noracooks.com/easy-vegan-potato-soup/",
+        "tags": [
+            "vegan",
+            "soup",
+            "pressure cooker"
+        ],
+        "yield": "About 6 servings",
+        "time": {
+            "ingredients": 10,
+            "preparation": 15,
+            "instruction": 30
+        },
+        "ingredients": [
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "olive oil"
+            },
+            {
+                "quantity": "1",
+                "name": "large onion",
+                "prep": "chop"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "minced garlic"
+            },
+            {
+                "quantity": "16",
+                "unit": "ounces",
+                "name": "carrots",
+                "prep": "peel and slice"
+            },
+            {
+                "quantity": "3",
+                "unit": "pounds",
+                "name": "russet potatoes",
+                "prep": "peel and chop into chunks"
+            },
+            {
+                "quantity": "4",
+                "unit": "cups",
+                "name": "vegetable broth"
+            },
+            {
+                "quantity": "13.5",
+                "unit": "ounces",
+                "name": "can of full fat coconut milk"
+            },
+            {
+                "quantity": "1/2",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "1/4",
+                "unit": "teaspoon",
+                "name": "black pepper"
+            }
+        ],
+        "preparations": [
+            "Push the sauté feature on the Instant Pot. Add the olive oil, chopped onion and garlic and cook, stirring frequently, until the onion in translucent, about 2-3 minutes.",
+            "Briefly turn off the Instant Pot, and add the carrots, potatoes, thyme and vegetable broth. Give it a little stir, then place the lid on, seal and cook on high pressure for 9 minutes. Release pressure manually, using a towel to prevent any burning. Blend or mash as desired and add coconut milk, pepper and salt to taste."
+        ],
+        "instructions": [
+            "Push the sauté feature on the Instant Pot. Add the olive oil, chopped onion and garlic and cook, stirring frequently, until the onion in translucent, about 2-3 minutes.",
+            "Briefly turn off the Instant Pot, and add the carrots, potatoes, thyme and vegetable broth. Give it a little stir, then place the lid on, seal and cook on high pressure for 9 minutes. Release pressure manually, using a towel to prevent any burning. Blend or mash as desired and add coconut milk, pepper and salt to taste."
+        ],
+        "nutrition": {
+            "calories": 2336,
+            "fat": 111,
+            "protein": 44,
+            "carbs": 319
+        }
+    },
+    {
+        "title": "Jambalaya",
+        "id": "jambalaya",
+        "imageURL": "../images/jambalaya.jpg",
+        "originalURL": "",
+        "tags": [
+            "bowl",
+            "air fryer"
+        ],
+        "yield": "About 6 servings",
+        "time": {
+            "ingredients": 5,
+            "preparation": 10,
+            "instruction": 15
+        },
+        "ingredients": [
+            {
+                "quantity": "4",
+                "unit": "links",
+                "name": "chicken apple sausage"
+            },
+            {
+                "quantity": "1",
+                "name": "rice box"
+            }
+        ],
+        "preparations": [
+            "Preheat air fryer on grill mode using second to lowest setting",
+            "Chop each sausage link into 8 to 10 slices"
+        ],
+        "instructions": [
+            "Make rice",
+            "Grill sausage in air fryer for 5 minutes"
+        ],
+        "nutrition": {
+            "calories": 374,
+            "fat": 25,
+            "protein": 17,
+            "carbs": 20
+        }
+    },
+    {
+        "title": "Creamy Sun Dried Tomato Chicken & Spinach",
+        "id": "creamy-sun-dried-tomato-chicken-and-spinach",
+        "imageURL": "../images/creamy-sun-dried-tomato-chicken-and-spinach.jpg",
+        "originalURL": "",
+        "tags": [
+            "chicken",
+            "large skillet"
+        ],
+        "yield": "About 6 servings",
+        "time": {
+            "ingredients": 10,
+            "preparation": 10,
+            "instruction": 35
+        },
+        "ingredients": [
+            {
+                "quantity": "2",
+                "unit": "tbsps",
+                "name": "unsalted butter"
+            },
+            {
+                "quantity": "2",
+                "unit": "tbsps",
+                "name": "olive oil"
+            },
+            {
+                "quantity": "4",
+                "name": "chicken breasts"
+            },
+            {
+                "quantity": "1",
+                "unit": "tsp",
+                "name": "kosher salt"
+            },
+            {
+                "quantity": "1",
+                "unit": "tsp",
+                "name": "freshly ground black pepper"
+            },
+            {
+                "quantity": "4",
+                "unit": "cups",
+                "name": "chopped fresh spinach"
+            },
+            {
+                "quantity": "1",
+                "unit": "tsp",
+                "name": "red pepper flakes"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "chicken broth"
+            },
+            {
+                "quantity": "1/2",
+                "unit": "cup",
+                "name": "roughly chopped sun-dried tomatoes in oil"
+            },
+            {
+                "quantity": "1/2",
+                "unit": "cup",
+                "name": "heavy cream"
+            }
+        ],
+        "preparations": [
+            "Get foil ready to use as a tent over the chicken on a plate",
+            "Chop spinach",
+            "Add red pepper to a container",
+            "Add chicken broth to a measuring cup",
+            "Add sun-dried tomatoes to a measuring cup",
+            "Add heavy cream to a measuring cup"
+        ],
+        "instructions": [
+            "Heat butter and olive oil in a large skillet over medium heat.",
+            "When hot, add the chicken to the pan and season with salt and pepper.",
+            "Cook for 7 minutes, flip, and cook for an additional 5 minutes, or until chicken registers 165 degress with a mean thermometer.",
+            "Remove chicken from the pan, and tent with foil on a plate.",
+            "Add spinach to the pan, and season with red pepper flakes.",
+            "Saute until wilted, and add the broth, tomatoes, and heavy cream to the pan.",
+            "Bring to a light simmer and add chicken breasts back to the pan.",
+            "Simmer for 2 minutes and serve."
+        ],
+        "nutrition": {
+            "calories": 2375,
+            "fat": 173,
+            "protein": 166,
+            "carbs": 39
+        }
+    }
+]

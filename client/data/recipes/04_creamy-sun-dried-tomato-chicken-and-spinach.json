@@ -1,0 +1,91 @@
+{
+    "title": "Creamy Sun Dried Tomato Chicken & Spinach",
+    "id": "creamy-sun-dried-tomato-chicken-and-spinach",
+    "imageURL": "../images/creamy-sun-dried-tomato-chicken-and-spinach.jpg",
+    "originalURL": "",
+    "tags": [
+        "chicken",
+        "large skillet"
+    ],
+    "yield": "About 6 servings",
+    "time": {
+        "ingredients": 10,
+        "preparation": 10,
+        "instruction": 35
+    },
+    "ingredients": [
+        {
+            "quantity": "2",
+            "unit": "tbsps",
+            "name": "unsalted butter"
+        },
+        {
+            "quantity": "2",
+            "unit": "tbsps",
+            "name": "olive oil"
+        },
+        {
+            "quantity": "4",
+            "name": "chicken breasts"
+        },
+        {
+            "quantity": "1",
+            "unit": "tsp",
+            "name": "kosher salt"
+        },
+        {
+            "quantity": "1",
+            "unit": "tsp",
+            "name": "freshly ground black pepper"
+        },
+        {
+            "quantity": "4",
+            "unit": "cups",
+            "name": "chopped fresh spinach"
+        },
+        {
+            "quantity": "1",
+            "unit": "tsp",
+            "name": "red pepper flakes"
+        },
+        {
+            "quantity": "2",
+            "unit": "cups",
+            "name": "chicken broth"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "cup",
+            "name": "roughly chopped sun-dried tomatoes in oil"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "cup",
+            "name": "heavy cream"
+        }
+    ],
+    "preparations": [
+        "Get foil ready to use as a tent over the chicken on a plate",
+        "Chop spinach",
+        "Add red pepper to a container",
+        "Add chicken broth to a measuring cup",
+        "Add sun-dried tomatoes to a measuring cup",
+        "Add heavy cream to a measuring cup"
+    ],
+    "instructions": [
+        "Heat butter and olive oil in a large skillet over medium heat.",
+        "When hot, add the chicken to the pan and season with salt and pepper.",
+        "Cook for 7 minutes, flip, and cook for an additional 5 minutes, or until chicken registers 165 degress with a mean thermometer.",
+        "Remove chicken from the pan, and tent with foil on a plate.",
+        "Add spinach to the pan, and season with red pepper flakes.",
+        "Saute until wilted, and add the broth, tomatoes, and heavy cream to the pan.",
+        "Bring to a light simmer and add chicken breasts back to the pan.",
+        "Simmer for 2 minutes and serve."
+    ],
+    "nutrition": {
+        "calories": 2375,
+        "fat": 173,
+        "protein": 166,
+        "carbs": 39
+    }
+}

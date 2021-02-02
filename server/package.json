@@ -1,0 +1,19 @@
+{
+	"name": "recipes",
+	"version": "1.0.0",
+	"description": "Buess Family Recipes",
+	"main": "app.js",
+	"dependencies": {
+		"dotenv": "^8.2.0",
+		"edamam-api": "^1.1.3"
+	},
+	"devDependencies": {
+		"request": "^2.88.2"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node app.js && node merge-json.js"
+	},
+	"author": "Eric Buess",
+	"license": "ISC"
+}

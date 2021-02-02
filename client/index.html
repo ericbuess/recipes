@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<!-- Bootstrap CSS -->
+		<link
+			href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"
+			rel="stylesheet"
+			integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1"
+			crossorigin="anonymous"
+		/>
+		<title>Buess Recipes</title>
+		<link rel="stylesheet" href="css/styles.css" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script src="js/recipes.js"></script>
+	</head>
+
+	<body>
+		<main>
+			<head>
+				<header class="text-center">
+					<h1>Buess Family Recipes</h1>
+				</header>
+			</head>
+			<ul id="recipes-container">
+				<li
+					id="recipe-template"
+					class="container-fluid recipe-container"
+					style="display: none"
+				>
+					<article class="row">
+						<header class="text-center">
+							<figure class="figure">
+								<img
+									class="col figure-img img-fluid rounded imageURL"
+									src="#"
+									alt="Picture description"
+								/>
+								<figcaption class="col-auto figure-caption">
+									<h2 class="recipe-title"></h2>
+									<div class="recipe-tags">tags</div>
+									<div class="recipe-total-time">total time</div>
+									<div class="recipe-nutrition"></div>
+								</figcaption>
+							</figure>
+						</header>
+						<section class="col ingredients-container">
+							<header class="ingredients-header">
+								<h3>Get out ingredients</h3>
+								<span class="ingredients-time">? minutes</span>
+							</header>
+							<ul class="ingredient-list">
+								<li
+									id="ingredient-item-template"
+									class="form-check ingredient-item"
+								>
+									<input
+										type="checkbox"
+										id="ingredient"
+										class="form-check-input"
+									/>
+									<label for="ingredient" class="ingredient">
+										<span class="ingredient-name"></span>
+										(<span class="ingredient-quantity"></span
+										><span class="ingredient-unit"></span>)
+									</label>
+								</li>
+							</ul>
+						</section>
+						<section class="col preparation-container">
+							<header class="preparation-header">
+								<h3>Prepare ingredients</h3>
+								<span class="preparation-time">? minutes</span>
+							</header>
+							<ol class="preparation-list">
+								<li
+									id="preparation-item-template"
+									class="form-check preparation-item"
+								>
+									<input
+										type="checkbox"
+										id="preparation"
+										class="form-check-input"
+									/>
+									<label for="preparation" class="preparation"></label>
+								</li>
+							</ol>
+						</section>
+						<section class="col instruction-container">
+							<header class="instruction-header">
+								<h3>Make</h3>
+								<span class="instruction-time">? minutes</span>
+							</header>
+							<ol class="instruction-list">
+								<li
+									id="instruction-item-template"
+									class="form-check instruction-item"
+								>
+									<input
+										type="checkbox"
+										id="instruction"
+										class="form-check-input"
+									/>
+									<label for="instruction" class="instruction"></label>
+								</li>
+							</ol>
+						</section>
+					</article>
+				</li>
+			</ul>
+		</main>
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+			integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+			crossorigin="anonymous"
+		></script>
+	</body>
+</html>

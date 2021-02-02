@@ -1,0 +1,80 @@
+{
+    "title": "Potato Soup",
+    "id": "potato-soup",
+    "imageURL": "../images/potato-soup.jpg",
+    "originalURL": "https://www.noracooks.com/easy-vegan-potato-soup/",
+    "tags": [
+        "vegan",
+        "soup",
+        "pressure cooker"
+    ],
+    "yield": "About 6 servings",
+    "time": {
+        "ingredients": 10,
+        "preparation": 15,
+        "instruction": 30
+    },
+    "ingredients": [
+        {
+            "quantity": "2",
+            "unit": "tablespoons",
+            "name": "olive oil"
+        },
+        {
+            "quantity": "1",
+            "name": "large onion",
+            "prep": "chop"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "minced garlic"
+        },
+        {
+            "quantity": "16",
+            "unit": "ounces",
+            "name": "carrots",
+            "prep": "peel and slice"
+        },
+        {
+            "quantity": "3",
+            "unit": "pounds",
+            "name": "russet potatoes",
+            "prep": "peel and chop into chunks"
+        },
+        {
+            "quantity": "4",
+            "unit": "cups",
+            "name": "vegetable broth"
+        },
+        {
+            "quantity": "13.5",
+            "unit": "ounces",
+            "name": "can of full fat coconut milk"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "teaspoon",
+            "name": "salt"
+        },
+        {
+            "quantity": "1/4",
+            "unit": "teaspoon",
+            "name": "black pepper"
+        }
+    ],
+    "preparations": [
+        "Push the sauté feature on the Instant Pot. Add the olive oil, chopped onion and garlic and cook, stirring frequently, until the onion in translucent, about 2-3 minutes.",
+        "Briefly turn off the Instant Pot, and add the carrots, potatoes, thyme and vegetable broth. Give it a little stir, then place the lid on, seal and cook on high pressure for 9 minutes. Release pressure manually, using a towel to prevent any burning. Blend or mash as desired and add coconut milk, pepper and salt to taste."
+    ],
+    "instructions": [
+        "Push the sauté feature on the Instant Pot. Add the olive oil, chopped onion and garlic and cook, stirring frequently, until the onion in translucent, about 2-3 minutes.",
+        "Briefly turn off the Instant Pot, and add the carrots, potatoes, thyme and vegetable broth. Give it a little stir, then place the lid on, seal and cook on high pressure for 9 minutes. Release pressure manually, using a towel to prevent any burning. Blend or mash as desired and add coconut milk, pepper and salt to taste."
+    ],
+    "nutrition": {
+        "calories": 2336,
+        "fat": 111,
+        "protein": 44,
+        "carbs": 319
+    }
+}

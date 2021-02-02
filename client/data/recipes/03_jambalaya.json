@@ -1,0 +1,41 @@
+{
+    "title": "Jambalaya",
+    "id": "jambalaya",
+    "imageURL": "../images/jambalaya.jpg",
+    "originalURL": "",
+    "tags": [
+        "bowl",
+        "air fryer"
+    ],
+    "yield": "About 6 servings",
+    "time": {
+        "ingredients": 5,
+        "preparation": 10,
+        "instruction": 15
+    },
+    "ingredients": [
+        {
+            "quantity": "4",
+            "unit": "links",
+            "name": "chicken apple sausage"
+        },
+        {
+            "quantity": "1",
+            "name": "rice box"
+        }
+    ],
+    "preparations": [
+        "Preheat air fryer on grill mode using second to lowest setting",
+        "Chop each sausage link into 8 to 10 slices"
+    ],
+    "instructions": [
+        "Make rice",
+        "Grill sausage in air fryer for 5 minutes"
+    ],
+    "nutrition": {
+        "calories": 374,
+        "fat": 25,
+        "protein": 17,
+        "carbs": 20
+    }
+}
