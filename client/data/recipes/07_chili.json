@@ -1,0 +1,81 @@
+{
+  "title": "Chili",
+  "id": "chili",
+  "imageURL": "../images/chili.jpg",
+  "originalURL": "https://dustmobilediaries.wordpress.com/2015/10/13/cinnamon-chipotle-chili/",
+  "tags": ["crockpot"],
+  "yield": "About 4 servings",
+  "time": {
+    "ingredients": 5,
+    "preparation": 10,
+    "instruction": 495
+  },
+  "ingredients": [
+    {
+      "quantity": "1.5",
+      "unit": "lbs",
+      "name": "ground pork"
+    },
+    {
+      "quantity": "1",
+      "name": "medium to large onion, chopped"
+    },
+    {
+      "quantity": "3",
+      "unit": "cloves",
+      "name": "garlic, minced"
+    },
+    {
+      "quantity": "15",
+      "unit": "ounces",
+      "name": "can chili beans"
+    },
+    {
+      "quantity": "11",
+      "unit": "ounces",
+      "name": "can pork and beans"
+    },
+    {
+      "quantity": "15",
+      "unit": "onces",
+      "name": "can diced tomatoes"
+    },
+    {
+      "quantity": "8",
+      "unit": "ounces",
+      "name": "can tomato sauce"
+    },
+    {
+      "quantity": "2.5",
+      "unit": "tsp",
+      "name": "chipotle chili powder"
+    },
+    {
+      "quantity": "1",
+      "unit": "tbsp",
+      "name": "ground cinnamon"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "name": "barbecue sauce"
+    },
+    {
+      "quantity": "1",
+      "unit": "dash",
+      "name": "steak sauce"
+    }
+  ],
+  "preparations": [
+    "Brown ground pork with onion and garlic, and drain excess fat."
+  ],
+  "instructions": [
+    "Mix in everything else. Bring to a boil, and simmer at least 30 minutes (but longer works too)."
+  ],
+  "nutrition": {
+    "calories": 4555,
+    "fat": 258,
+    "protein": 280,
+    "carbs": 281
+  }
+}

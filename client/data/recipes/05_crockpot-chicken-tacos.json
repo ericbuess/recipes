@@ -1,0 +1,61 @@
+{
+  "title": "CrockPot Chicken Tacos",
+  "id": "crockpot-chicken-tacos",
+  "imageURL": "../images/crockpot-chicken-tacos.jpg",
+  "originalURL": "https://www.spendwithpennies.com/crockpot-chicken-tacos/",
+  "tags": [
+    "cockpot",
+    "crockpot chicken tacos",
+    "slow cooker chicken tacos",
+    "dinner",
+    "mexican"
+  ],
+  "yield": "About 4 servings",
+  "time": {
+    "ingredients": 5,
+    "preparation": 5,
+    "instruction": 240,
+    "cook-time-which-does-not-exist-yet": 240
+  },
+  "ingredients": [
+    {
+      "quantity": "4",
+      "name": "skinless boneless chicken breast halves"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "name": "salsa"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "name": "canned diced tomatoes with chiles drained or 1 can Rotel"
+    },
+    {
+      "quantity": "1",
+      "name": "package taco seasoning or 2 Tablespoons homemade taco seasoning"
+    },
+    {
+      "quantity": "½",
+      "name": "onion diced"
+    }
+  ],
+  "preparations": [
+    "Combine salsa, canned tomatoes, and taco seasoning.",
+    "Place onions & chicken in the slow cooker and top with tomato mixture."
+  ],
+  "instructions": [
+    "Cook on low 7-8 hours or high 3-4 hours.",
+    "Remove chicken from slow cooker and shred.",
+    "Return to slow cooker and stir in juices.",
+    "Serve in taco shells, on salads, pizzas or in bowls over rice!",
+    "If you prefer you can skip the canned tomatoes and add 1 ½ cups salsa."
+  ],
+  "nutrition": {
+    "calories": 569,
+    "fat": 11,
+    "protein": 85,
+    "carbs": 35
+  }
+}

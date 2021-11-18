@@ -1,0 +1,96 @@
+{
+    "title": "CrockPot Honey Garlic Chicken and Veggies",
+    "id": "crockpot-honey-garlic-chicken-and-veggies",
+    "imageURL": "../images/crockpot-honey-garlic-chicken-and-veggies.jpg",
+    "originalURL": "https://damndelicious.net/2015/06/05/slow-cooker-honey-garlic-chicken-and-veggies/",
+    "tags": [
+        "crockpot"
+    ],
+    "yield": "About 4 servings",
+    "time": {
+        "ingredients": 5,
+        "preparation": 10,
+        "instruction": 495
+    },
+    "ingredients": [
+        {
+            "quantity": "8",
+            "name": "bone-in, skin-on chicken thighs"
+        },
+        {
+            "quantity": "16",
+            "unit": "ounces",
+            "name": "baby red potatoes, halved"
+        },
+        {
+            "quantity": "16",
+            "unit": "ounces",
+            "name": "baby carrots"
+        },
+        {
+            "quantity": "16",
+            "unit": "ounces",
+            "name": "green beens, trimmed"
+        },
+        {
+            "quantity": "2",
+            "unit": "tablespoons",
+            "name": "chopped fresh parsley leaves"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "cup",
+            "name": "reduced sodium soy sauce"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "cup",
+            "name": "honey"
+        },
+        {
+            "quantity": "1/4",
+            "unit": "cup",
+            "name": "ketchup"
+        },
+        {
+            "quantity": "2",
+            "unit": "cloves",
+            "name": "garlic, minced"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "dried basil"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "teaspoon",
+            "name": "dried oregano"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "teaspoon",
+            "name": "crushed red pepper flakes"
+        },
+        {
+            "quantity": "1/2",
+            "unit": "teaspoon",
+            "name": "ground black pepper"
+        }
+    ],
+    "preparations": [
+        "In a large bowl, combine soy sauce, honey, ketchup, garlic, basil, oregano, red pepper flakes and pepper.",
+        "Place chicken thighs, potatoes, carrots and soy sauce mixture into a 6-qt slow cooker. "
+    ],
+    "instructions": [
+        "Cover and cook on low heat for 7-8 hours or high for 3-4 hours, basting every hour.",
+        "Add green beans during the last 30 minutes of cooking time.",
+        "OPTIONAL: Preheat oven to broil. Place chicken thighs onto a baking sheet, skin side up, and broil until crisp, about 3-4 minutes. Serve chicken immediately with potatoes, carrots and green beans, garnished with parsley, if desired."
+    ],
+    "nutrition": {
+        "calories": 4555,
+        "fat": 258,
+        "protein": 280,
+        "carbs": 281
+    }
+}

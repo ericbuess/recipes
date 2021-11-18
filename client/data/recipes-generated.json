@@ -90,7 +90,7 @@
             "Add grill attachment to air fryer"
         ],
         "instructions": [
-            "Set air fryer to Grill on max heat for 20 minutes and start heating",
+            "Set air fryer to Grill on max heat for 5 to 20 minutes and start heating",
             "When air fryer is heated, pour bowl of ingredients into air fryer and close the lid",
             "Heat beans and add spices to them (e.g. nutritional yeast, garlic powder, onion powder)",
             "Heat tortillas",
@@ -313,6 +313,246 @@
             "fat": 173,
             "protein": 166,
             "carbs": 39
+        }
+    },
+    {
+        "title": "CrockPot Chicken Tacos",
+        "id": "crockpot-chicken-tacos",
+        "imageURL": "../images/crockpot-chicken-tacos.jpg",
+        "originalURL": "https://www.spendwithpennies.com/crockpot-chicken-tacos/",
+        "tags": [
+            "cockpot",
+            "crockpot chicken tacos",
+            "slow cooker chicken tacos",
+            "dinner",
+            "mexican"
+        ],
+        "yield": "About 4 servings",
+        "time": {
+            "ingredients": 5,
+            "preparation": 5,
+            "instruction": 240,
+            "cook-time-which-does-not-exist-yet": 240
+        },
+        "ingredients": [
+            {
+                "quantity": "4",
+                "name": "skinless boneless chicken breast halves"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "salsa"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "canned diced tomatoes with chiles drained or 1 can Rotel"
+            },
+            {
+                "quantity": "1",
+                "name": "package taco seasoning or 2 Tablespoons homemade taco seasoning"
+            },
+            {
+                "quantity": "½",
+                "name": "onion diced"
+            }
+        ],
+        "preparations": [
+            "Combine salsa, canned tomatoes, and taco seasoning.",
+            "Place onions & chicken in the slow cooker and top with tomato mixture."
+        ],
+        "instructions": [
+            "Cook on low 7-8 hours or high 3-4 hours.",
+            "Remove chicken from slow cooker and shred.",
+            "Return to slow cooker and stir in juices.",
+            "Serve in taco shells, on salads, pizzas or in bowls over rice!",
+            "If you prefer you can skip the canned tomatoes and add 1 ½ cups salsa."
+        ],
+        "nutrition": {
+            "calories": 569,
+            "fat": 11,
+            "protein": 85,
+            "carbs": 35
+        }
+    },
+    {
+        "title": "CrockPot Honey Garlic Chicken and Veggies",
+        "id": "crockpot-honey-garlic-chicken-and-veggies",
+        "imageURL": "../images/crockpot-honey-garlic-chicken-and-veggies.jpg",
+        "originalURL": "https://damndelicious.net/2015/06/05/slow-cooker-honey-garlic-chicken-and-veggies/",
+        "tags": [
+            "crockpot"
+        ],
+        "yield": "About 4 servings",
+        "time": {
+            "ingredients": 5,
+            "preparation": 10,
+            "instruction": 495
+        },
+        "ingredients": [
+            {
+                "quantity": "8",
+                "name": "bone-in, skin-on chicken thighs"
+            },
+            {
+                "quantity": "16",
+                "unit": "ounces",
+                "name": "baby red potatoes, halved"
+            },
+            {
+                "quantity": "16",
+                "unit": "ounces",
+                "name": "baby carrots"
+            },
+            {
+                "quantity": "16",
+                "unit": "ounces",
+                "name": "green beens, trimmed"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "chopped fresh parsley leaves"
+            },
+            {
+                "quantity": "1/2",
+                "unit": "cup",
+                "name": "reduced sodium soy sauce"
+            },
+            {
+                "quantity": "1/2",
+                "unit": "cup",
+                "name": "honey"
+            },
+            {
+                "quantity": "1/4",
+                "unit": "cup",
+                "name": "ketchup"
+            },
+            {
+                "quantity": "2",
+                "unit": "cloves",
+                "name": "garlic, minced"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "dried basil"
+            },
+            {
+                "quantity": "1/2",
+                "unit": "teaspoon",
+                "name": "dried oregano"
+            },
+            {
+                "quantity": "1/2",
+                "unit": "teaspoon",
+                "name": "crushed red pepper flakes"
+            },
+            {
+                "quantity": "1/2",
+                "unit": "teaspoon",
+                "name": "ground black pepper"
+            }
+        ],
+        "preparations": [
+            "In a large bowl, combine soy sauce, honey, ketchup, garlic, basil, oregano, red pepper flakes and pepper.",
+            "Place chicken thighs, potatoes, carrots and soy sauce mixture into a 6-qt slow cooker. "
+        ],
+        "instructions": [
+            "Cover and cook on low heat for 7-8 hours or high for 3-4 hours, basting every hour.",
+            "Add green beans during the last 30 minutes of cooking time.",
+            "OPTIONAL: Preheat oven to broil. Place chicken thighs onto a baking sheet, skin side up, and broil until crisp, about 3-4 minutes. Serve chicken immediately with potatoes, carrots and green beans, garnished with parsley, if desired."
+        ],
+        "nutrition": {
+            "calories": 4555,
+            "fat": 258,
+            "protein": 280,
+            "carbs": 281
+        }
+    },
+    {
+        "title": "Chili",
+        "id": "chili",
+        "imageURL": "../images/chili.jpg",
+        "originalURL": "https://dustmobilediaries.wordpress.com/2015/10/13/cinnamon-chipotle-chili/",
+        "tags": [
+            "crockpot"
+        ],
+        "yield": "About 4 servings",
+        "time": {
+            "ingredients": 5,
+            "preparation": 10,
+            "instruction": 495
+        },
+        "ingredients": [
+            {
+                "quantity": "1.5",
+                "unit": "lbs",
+                "name": "ground pork"
+            },
+            {
+                "quantity": "1",
+                "name": "medium to large onion, chopped"
+            },
+            {
+                "quantity": "3",
+                "unit": "cloves",
+                "name": "garlic, minced"
+            },
+            {
+                "quantity": "15",
+                "unit": "ounces",
+                "name": "can chili beans"
+            },
+            {
+                "quantity": "11",
+                "unit": "ounces",
+                "name": "can pork and beans"
+            },
+            {
+                "quantity": "15",
+                "unit": "onces",
+                "name": "can diced tomatoes"
+            },
+            {
+                "quantity": "8",
+                "unit": "ounces",
+                "name": "can tomato sauce"
+            },
+            {
+                "quantity": "2.5",
+                "unit": "tsp",
+                "name": "chipotle chili powder"
+            },
+            {
+                "quantity": "1",
+                "unit": "tbsp",
+                "name": "ground cinnamon"
+            },
+            {
+                "quantity": "1/2",
+                "unit": "cup",
+                "name": "barbecue sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "dash",
+                "name": "steak sauce"
+            }
+        ],
+        "preparations": [
+            "Brown ground pork with onion and garlic, and drain excess fat."
+        ],
+        "instructions": [
+            "Mix in everything else. Bring to a boil, and simmer at least 30 minutes (but longer works too)."
+        ],
+        "nutrition": {
+            "calories": 4555,
+            "fat": 258,
+            "protein": 280,
+            "carbs": 281
         }
     }
 ]
